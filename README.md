@@ -1,2 +1,1 @@
-# Design-Parking-System
-Design Simulation Counting
+https://leetcode.com/problems/design-parking-system
